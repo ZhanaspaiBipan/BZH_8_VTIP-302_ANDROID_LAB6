@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BZH08_LAB06_SQLite</string>
+    <string name="Введите_название_наушника">Введите название наушника</string>
+    <string name="Загрузка_данных">Загрузка данных…</string>
+    <string name="Выход">Выход</string>
+    <string name="Написать_автору">Написать предложение автору</string>
+    <string name="myemail">bipancool2@gmail.com</string>
+    <string name="Добавьте_еще_номер">Добавьте еще номер</string>
+    <string name="Предлагаю_такой_номер">Предлагаю такой номер в вашу программу:</string>
+    <string name="Посылка_письма">Посылка письма…</string>
+    <string name="Нет_клиента">Нет клиента!</string>
+    <string name="Большой_шрифт">Большой шрифт</string>
+
+    <string-array name="search_arrays">
+        <item>Все</item>
+        <item>Наушник</item>
+        <item>Сайт</item>
+        <item>Проводное</item>
+        <item>Размер</item>
+        <item>Стоимость</item>
+    </string-array>
+</resources>
